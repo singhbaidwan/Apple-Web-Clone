@@ -2,9 +2,9 @@ import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
 import Highlights from "./components/Highlights";
 import Model from "./components/Model";
+import Features from "./components/Features";
 
 import * as Sentry from "@sentry/react";
-import Features from "./components/Features";
 
 function App() {
   // return <button onClick={() => methodDoesNotExist()}>Break the world</button>;
