@@ -6,6 +6,7 @@ import Features from "./components/Features";
 
 import * as Sentry from "@sentry/react";
 import HowItWorks from "./components/HowItWorks";
+import Footer from "./components/Footer";
 
 function App() {
   // return <button onClick={() => methodDoesNotExist()}>Break the world</button>;
@@ -17,6 +18,7 @@ function App() {
       <Model />
       <Features />
       <HowItWorks />
+      <Footer />
     </main>
   );
 }
