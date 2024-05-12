@@ -49,7 +49,7 @@ const Features = () => {
             <div className="relative h-[50vh] w-full flex items-center">
               <video
                 playsInline
-                id="exploreView"
+                id="exploreVideo"
                 className="h-full w-full object-cover object-center"
                 preload="none"
                 muted
