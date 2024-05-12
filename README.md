@@ -1,8 +1,60 @@
-# React + Vite
+# Apple Site Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created Apple Site clone
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install my-project with npm
+
+```bash
+  cd apple-web-clone
+  npm install
+```
+
+## 🚀 About Me
+
+I'm a full stack developer
+
+## Screenshots
+
+Check more Screenshots in image folder
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS , Three JS , GSAP
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/singhbaidwan)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Demo
+
+Insert gif or link to demo
+
+![](https://github.com/singhbaidwan/Apple-Web-Clone/blob/main/images/rec.gif)
